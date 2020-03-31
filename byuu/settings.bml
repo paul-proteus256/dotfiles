@@ -1,0 +1,152 @@
+Video
+  Driver: OpenGL 3.2
+  Monitor: Primary
+  Format: ARGB24
+  Exclusive: false
+  Blocking: false
+  Flush: false
+  Shader: Blur
+  Multiplier: 4
+  Output: Scale
+  AspectCorrection: true
+  AdaptiveSizing: true
+  AutoCentering: false
+  Luminance: 1.0
+  Saturation: 1.0
+  Gamma: 1.0
+  ColorBleed: true
+  ColorEmulation: true
+  InterframeBlending: true
+  Overscan: false
+Audio
+  Driver: PulseAudio Simple
+  Device: Default
+  Frequency: 48000
+  Latency: 0
+  Exclusive: false
+  Blocking: true
+  Dynamic: false
+  Mute: false
+  Volume: 0.5
+  Balance: 0.0
+Input
+  Driver: udev
+  Defocus: Pause
+General
+  ShowStatusBar: true
+  Rewind: false
+  RunAhead: false
+  AutoSaveMemory: true
+  NativeFileDialogs: true
+Rewind
+  Length: 100
+  Frequency: 10
+Paths
+  Saves
+  Patches
+  Firmware
+Recent
+  Game-1: /home/kilgoretrout/Secret of Mana (E) (V1.1) [!].smc
+  Game-2: /home/kilgoretrout/Downloads/Super Mario World 2 - Yoshi's Island (USA).sfc
+  Game-3
+  Game-4
+  Game-5
+  Game-6
+  Game-7
+  Game-8
+  Game-9
+VirtualPad
+  Up: Joypad/54c09cc/Hat/1/Lo
+  Down: Joypad/54c09cc/Hat/1/Hi
+  Left: Joypad/54c09cc/Hat/0/Lo
+  Right: Joypad/54c09cc/Hat/0/Hi
+  Select: Joypad/54c09cc/Button/8
+  Start: Joypad/54c09cc/Button/9
+  A: Joypad/54c09cc/Button/0
+  B: Joypad/54c09cc/Button/1
+  X: Joypad/54c09cc/Button/3
+  Y: Joypad/54c09cc/Button/2
+  L: Joypad/54c09cc/Button/4
+  R: Joypad/54c09cc/Button/5
+Hotkey
+  ToggleFullscreen
+  FastForward
+  Rewind
+  SaveState
+  LoadState
+  DecrementStateSlot
+  IncrementStateSlot
+  PauseEmulation
+  QuitEmulator
+Famicom
+  Visible: true
+  Path
+FamicomDiskSystem
+  Visible: true
+  Path
+  Firmware
+    BIOS.Japan
+SuperFamicom
+  Visible: true
+  Path: /home/kilgoretrout/
+SG-1000
+  Visible: true
+  Path
+MasterSystem
+  Visible: true
+  Path
+MegaDrive
+  Visible: true
+  Path
+MegaCD
+  Visible: true
+  Path
+  Firmware
+    BIOS.US
+    BIOS.Japan
+    BIOS.Europe
+PCEngine
+  Visible: true
+  Path
+SuperGrafx
+  Visible: true
+  Path
+MSX
+  Visible: true
+  Path
+MSX2
+  Visible: true
+  Path
+GameBoy
+  Visible: true
+  Path
+GameBoyColor
+  Visible: true
+  Path
+GameBoyAdvance
+  Visible: true
+  Path
+  Firmware
+    BIOS.World
+GameGear
+  Visible: true
+  Path
+WonderSwan
+  Visible: true
+  Path
+WonderSwanColor
+  Visible: true
+  Path
+PocketChallengeV2
+  Visible: true
+  Path
+NeoGeoPocket
+  Visible: true
+  Path
+  Firmware
+    BIOS.World
+NeoGeoPocketColor
+  Visible: true
+  Path
+  Firmware
+    BIOS.World

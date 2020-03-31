@@ -1,0 +1,31 @@
+2020/03/27-23:17:30.625 524b Reusing MANIFEST /home/kilgoretrout/.config/whatsapp-nativefier-d52542/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000360
+2020/03/27-23:17:30.626 524b Recovering log #615
+2020/03/27-23:17:30.651 524b Reusing old log /home/kilgoretrout/.config/whatsapp-nativefier-d52542/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000615.log 
+2020/03/29-00:52:16.986 2c4c3 Level-0 table #628: started
+2020/03/29-00:52:17.036 2c4c3 Level-0 table #628: 1383438 bytes OK
+2020/03/29-00:52:17.042 2c4c3 Delete type=0 #615
+2020/03/29-01:59:20.603 2c4c3 Compacting 1@0 + 3@1 files
+2020/03/29-01:59:20.644 2c4c3 Generated table #629@0: 25961 keys, 1035745 bytes
+2020/03/29-01:59:20.721 2c4c3 Generated table #630@0: 1438 keys, 2597032 bytes
+2020/03/29-01:59:20.807 2c4c3 Generated table #631@0: 1461 keys, 2596148 bytes
+2020/03/29-01:59:20.882 2c4c3 Generated table #632@0: 1536 keys, 2494545 bytes
+2020/03/29-01:59:20.882 2c4c3 Compacted 1@0 + 3@1 files => 8723470 bytes
+2020/03/29-01:59:20.888 2c4c3 compacted to: files[ 0 4 24 0 0 0 0 ]
+2020/03/29-01:59:20.889 2c4c3 Delete type=2 #619
+2020/03/29-01:59:20.889 2c4c3 Delete type=2 #628
+2020/03/29-01:59:20.890 2c4c3 Delete type=2 #618
+2020/03/29-01:59:20.890 2c4c3 Delete type=2 #620
+2020/03/29-02:00:53.365 2c4c3 Compacting 1@1 + 5@2 files
+2020/03/29-02:00:53.445 2c4c3 Generated table #633@1: 45885 keys, 2239801 bytes
+2020/03/29-02:00:53.517 2c4c3 Generated table #634@1: 38927 keys, 2235753 bytes
+2020/03/29-02:00:53.607 2c4c3 Generated table #635@1: 46959 keys, 2256056 bytes
+2020/03/29-02:00:53.686 2c4c3 Generated table #636@1: 54680 keys, 2242313 bytes
+2020/03/29-02:00:53.733 2c4c3 Generated table #637@1: 42052 keys, 1080200 bytes
+2020/03/29-02:00:53.733 2c4c3 Compacted 1@1 + 5@2 files => 10054123 bytes
+2020/03/29-02:00:53.739 2c4c3 compacted to: files[ 0 3 24 0 0 0 0 ]
+2020/03/29-02:00:53.739 2c4c3 Delete type=2 #623
+2020/03/29-02:00:53.739 2c4c3 Delete type=2 #624
+2020/03/29-02:00:53.740 2c4c3 Delete type=2 #629
+2020/03/29-02:00:53.741 2c4c3 Delete type=2 #621
+2020/03/29-02:00:53.741 2c4c3 Delete type=2 #625
+2020/03/29-02:00:53.741 2c4c3 Delete type=2 #622
